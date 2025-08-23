@@ -1,8 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm hdmain  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hdmain&show_icons=true&theme=radical)
+Welcome to my GitHub profile! 🚀  
 
-- 🔭 I’m currently working on Cheap Deck
-- 🌱 I’m currently learning electron
-- 👯 I’m looking to collaborate on Cheap Deck
-- 📫 How to reach me: ...
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdmain&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdmain&layout=compact&theme=radical)  
+
+---
+
+## 💻 About Me
+- 🔭 Currently working on: **Cheap Deck**  
+- 🌱 Learning: **Electron**  
+- 👯 Looking to collaborate on: **Cheap Deck**  
+- 📫 How to reach me: **Discord → hdmainx**  
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/hdmain/hdmain/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+✨ Thanks for visiting my profile!  
