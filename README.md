@@ -18,9 +18,4 @@ Welcome to my GitHub profile! 🚀
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/hdmain/hdmain/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ✨ Thanks for visiting my profile!  
