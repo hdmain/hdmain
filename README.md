@@ -5,7 +5,7 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=hdmain&theme=dark)](https://git.io/streak-stats)
 
 ---
 
