@@ -26,4 +26,12 @@ var (
 
 ---
 
+## 🔗 Connect & Learn More
+
+* [My team](https://chatgpt.com)
+* [Website](https://hdmain.eu) 🌐 **Visit for more projects and info**
+* [Discord](https://discord.com/users/the4creator)
+
+---
+
 ✨ Thanks for visiting my profile!  
