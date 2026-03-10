@@ -10,16 +10,21 @@ Welcome to my GitHub profile! 🚀
 ## 📊 my server
 ![System Stats](http://apilive.hdmain.eu/stats.svg)
 ---
-```
+## 💻 About Me
+```go
 var (
-	Name      = "Hdmain"
-	Alias     = "the4creator"
-	Location  = "Poland"
-	Role      = "Backend Developer"
-	Stack     = "Go, APIs, Backend"
-	Status    = "Learning & building"
+	Name      = "Hdmain"           // Your real name or nickname
+	Alias     = "the4creator"      // Online alias
+	Location  = "Poland"           // 🌍
+	Role      = "Backend Developer" // 💻
+	Stack     = "Go, APIs, Backend" // 🛠️ Main technologies
+	Status    = "Learning & building" // 🚀 Current focus
 )
-```
+````
+
+
+
+
 ---
 
 ✨ Thanks for visiting my profile!  
