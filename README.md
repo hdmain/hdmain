@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hej, jestem hdmain
+# 👋 Hey, I'm hdmain
 
-### Programista backendowy · Polska 🇵🇱
+### Backend Developer · Poland 🇵🇱
 
 </div>
 
 ---
 
-## O mnie
+## About Me
 
 ```go
 var (
@@ -23,7 +23,7 @@ var (
 
 ---
 
-## 📊 Statystyki GitHuba
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -31,8 +31,8 @@ var (
 
 <br/>
 
-![hdmain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdmain&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdmain&layout=compact&theme=dark&hide_border=true&langs_count=6)
+![hdmain's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hdmain&theme=github_dark)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hdmain&theme=github_dark)
 
 <br/>
 
@@ -42,7 +42,7 @@ var (
 
 ---
 
-## 🖥️ Statystyki serwera na żywo
+## 🖥️ Live Server Stats
 
 <div align="center">
 
@@ -52,18 +52,18 @@ var (
 
 ---
 
-## 🔗 Linki
+## 🔗 Links
 
 | | |
 |---|---|
-| 🌐 Strona internetowa | [hdmain.eu](https://hdmain.eu) |
-| 💬Niezgoda | [4twórca](https://discord.com/users/the4creator) |
-| 👥 Zespół | [chatgpt.com](https://chatgpt.com) |
+| 🌐 Website | [hdmain.eu](https://hdmain.eu) |
+| 💬 Discord | [the4creator](https://discord.com/users/the4creator) |
+| 👥 Team | [chatgpt.com](https://chatgpt.com) |
 
 ---
 
 <div align="center">
 
-✨ Dziękujemy za zatrzymanie się!
+✨ Thanks for stopping by!
 
 </div>
