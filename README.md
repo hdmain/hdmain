@@ -1,37 +1,69 @@
-# 👋 Hi, I'm hdmain  
+<div align="center">
 
-Welcome to my GitHub profile! 🚀  
+# 👋 Hej, jestem hdmain
+
+### Programista backendowy · Polska 🇵🇱
+
+</div>
 
 ---
 
-## 💻 About Me
+## O mnie
+
 ```go
 var (
-	Name      = "Hdmain"           
-	Alias     = "the4creator"      
-	Location  = "Poland"           
-	Role      = "Backend Developer" 
-	Stack     = "Go, APIs, Backend" 
-	Status    = "Learning & building" 
+    Name     = "Hdmain"
+    Alias    = "the4creator"
+    Location = "Poland"
+    Role     = "Backend Developer"
+    Stack    = "Go · APIs · Backend"
+    Status   = "Learning & building"
 )
-````
+```
 
 ---
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=hdmain&theme=dark)](https://git.io/streak-stats)
+## 📊 Statystyki GitHuba
 
-## 🖥️ My Server
-![System Stats](http://apilive.hdmain.eu/stats.svg) 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hdmain&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
+
+![hdmain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hdmain&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hdmain&layout=compact&theme=dark&hide_border=true&langs_count=6)
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hdmain&theme=github-compact&hide_border=true&area=true)
+
+</div>
 
 ---
 
-## 🔗 Connect & Learn More
+## 🖥️ Statystyki serwera na żywo
 
-* [My team](https://chatgpt.com)
-* [Website](https://hdmain.eu) 🌐 **Visit for more projects and info**
-* [Discord](https://discord.com/users/the4creator)
+<div align="center">
+
+![System Stats](http://apilive.hdmain.eu/stats.svg)
+
+</div>
 
 ---
 
-✨ Thanks for visiting my profile!  
+## 🔗 Linki
+
+| | |
+|---|---|
+| 🌐 Strona internetowa | [hdmain.eu](https://hdmain.eu) |
+| 💬Niezgoda | [4twórca](https://discord.com/users/the4creator) |
+| 👥 Zespół | [chatgpt.com](https://chatgpt.com) |
+
+---
+
+<div align="center">
+
+✨ Dziękujemy za zatrzymanie się!
+
+</div>
