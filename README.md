@@ -57,8 +57,8 @@ var (
 | | |
 |---|---|
 | 🌐 Website | [hdmain.eu](https://hdmain.eu) |
-| 💬 Discord | [the4creator](https://discord.com/users/the4creator) |
-| 👥 Team | [chatgpt.com](https://chatgpt.com) |
+| 💬 Discord | [utug672s_29551](https://discord.com/users/utug672s_29551) |
+| 👥 Team | [team](https://chatgpt.com) |
 
 ---
 
