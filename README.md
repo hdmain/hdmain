@@ -27,10 +27,13 @@ var (
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=hdmain&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ![Stats](https://hdmain.github.io/ghcamos/stats.svg)
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=hdmain&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
 ✨ Thanks for stopping by!
 
 </div>
