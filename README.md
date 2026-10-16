@@ -29,13 +29,6 @@ var (
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hdmain&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
-
-![hdmain's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hdmain&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hdmain&theme=github_dark)
-
-<br/>
-
 ![Stats](https://hdmain.github.io/ghcamos/stats.svg)
 
 ✨ Thanks for stopping by!
