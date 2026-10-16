@@ -34,6 +34,9 @@ var (
 [![GitHub Streak](https://streak-stats.demolab.com?user=hdmain&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
+
+[![Contact](https://img.shields.io/badge/📬_Contact-Get_in_touch-blue?style=for-the-badge)](https://raw.githubusercontent.com/hdmain/hdmain/refs/heads/main/contact.md)
+
 ✨ Thanks for stopping by!
 
 </div>
