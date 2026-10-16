@@ -38,32 +38,6 @@ var (
 
 ![Stats](https://hdmain.github.io/ghcamos/stats.svg)
 
-</div>
-
----
-
-## 🖥️ Live Server Stats
-
-<div align="center">
-
-![System Stats](http://apilive.hdmain.eu/stats.svg)
-
-</div>
-
----
-
-## 🔗 Links
-
-| | |
-|---|---|
-| 🌐 Website | [hdmain.eu](https://hdmain.eu) |
-| 💬 Discord | [utug672s_29551](https://discord.com/users/utug672s_29551) |
-| 👥 Team | [team](https://chatgpt.com) |
-
----
-
-<div align="center">
-
 ✨ Thanks for stopping by!
 
 </div>
