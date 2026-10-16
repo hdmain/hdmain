@@ -36,7 +36,7 @@ var (
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hdmain&theme=github-compact&hide_border=true&area=true)
+![Stats](https://hdmain.github.io/ghcamos/stats.svg)
 
 </div>
 
